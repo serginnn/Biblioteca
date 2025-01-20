@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Trab2 {
+public class main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         biblioteca biblioteca = new biblioteca(); 
